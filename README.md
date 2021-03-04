@@ -11,6 +11,8 @@
 
 This template ships with the main React and Storybook configuration files you'll need to get up and running fast.
 
+(testing PR integration with Chromatic feature)
+
 ## 🚅  Quick start
 
 1.  **Create the application.**
